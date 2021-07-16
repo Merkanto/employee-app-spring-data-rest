@@ -16,7 +16,7 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <name>employee-app-spring-data-rest</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Employee project with Spring Boot and Spring Data REST</description>
 
     <properties>
         <java.version>11</java.version>
